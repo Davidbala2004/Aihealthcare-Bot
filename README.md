@@ -30,9 +30,9 @@ This project aims to create an **AI-Driven Patient Assistant** using **BERD** to
 - The API documentation can be found [here](https://example.com/api-docs).
 
 ### Team
-- **Mr. Saran V** 
+- **Mr. Balaji K** 
 - **Mr. Manoj Kumar K**  
-- **Mr. Balaji K**  
+- **Mr. Saran V**  
 
 **Guide:** Dr. Balakrishnan M, KCE Coimbatore
 
