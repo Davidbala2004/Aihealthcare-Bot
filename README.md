@@ -40,4 +40,4 @@ This project aims to create an **AI-Driven Patient Assistant** using **BERD** to
 This project is licensed under the **Apache License 2.0** - see the LICENSE file for details. 
 
 ### Contact
-For more information, please contact [saransathi1010@gmail.com].
+For more information, please contact [balaji2004kamal@gmail.com].
